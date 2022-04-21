@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app</key>
+	<dict>
+		<key>icon</key>
+		<dict>
+			<key>hash</key>
+			<string>da39a3ee5e6b4b0d3255bfef95601890afd80709</string>
+			<key>height</key>
+			<integer>3500</integer>
+			<key>prerendered</key>
+			<true/>
+			<key>width</key>
+			<integer>3500</integer>
+		</dict>
+		<key>identifier</key>
+		<string>com.vtweens.ekoloko</string>
+		<key>reports_url</key>
+		<string>https://reports.crashlytics.com/spi/v1/platforms/ios/apps/com.vtweens.ekoloko/reports</string>
+		<key>status</key>
+		<string>activated</string>
+		<key>update_required</key>
+		<false/>
+		<key>url</key>
+		<string>https://api.crashlytics.com/spi/v1/platforms/ios/apps/com.vtweens.ekoloko</string>
+	</dict>
+	<key>cache_duration</key>
+	<integer>60</integer>
+	<key>prompt</key>
+	<dict>
+		<key>always_send_button_title</key>
+		<string>Always Send</string>
+		<key>cancel_button_title</key>
+		<string>Don't Send</string>
+		<key>enabled</key>
+		<false/>
+		<key>message</key>
+		<string>Looks like we crashed! Please help us fix the problem by sending a crash report.</string>
+		<key>send_button_title</key>
+		<string>Send</string>
+		<key>show_always_send_button</key>
+		<true/>
+		<key>show_cancel_button</key>
+		<true/>
+		<key>title</key>
+		<string>Send Crash Report?</string>
+	</dict>
+	<key>settings</key>
+	<dict>
+		<key>cache_duration</key>
+		<integer>60</integer>
+		<key>collect_reports</key>
+		<true/>
+		<key>identifier_mask</key>
+		<integer>255</integer>
+		<key>log_buffer_size</key>
+		<integer>64000</integer>
+		<key>max_chained_exception_depth</key>
+		<integer>16</integer>
+		<key>max_custom_exception_events</key>
+		<integer>8</integer>
+		<key>max_custom_key_value_pairs</key>
+		<integer>64</integer>
+		<key>send_session_without_crash</key>
+		<true/>
+		<key>valid_until</key>
+		<date>2016-06-27T21:07:02Z</date>
+	</dict>
+</dict>
+</plist>
